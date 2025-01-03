@@ -13,7 +13,6 @@ The Social Network API is a backend solution designed for a social network appli
 - [Description](#description)
 - [How to Use](#how-to-use)
 - [Example API Usage](#example-api-usage)
-- [Running Tests](#running-tests)
 - [Technologies Used](#technologies-used)
 - [Summary](#summary)
 
